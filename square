@@ -1,0 +1,8 @@
+# Python program to calculate the square of a given number
+
+def square(num):
+    # Calculate the square of the input number
+    return num * num
+
+# Test the function with a sample number
+print("The square of 5 is:", square(5))
